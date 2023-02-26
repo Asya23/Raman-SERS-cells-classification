@@ -26,7 +26,7 @@ Each spectra contains 2090 dimensions (features), corresponding to Raman shifts 
 ![image](https://user-images.githubusercontent.com/47527688/221404049-d7196010-8685-417f-8b65-81cf5de4f34e.png)
 
 ## Project implementation
-Exactly the chapters you'll find in the Jupyter Notebook.
+Exactly the chapters you'll find in the Jupyter Notebook simple_models_sequenced.ipynb
 * Meet the data
 * EDA
   * Statistical testing: normality
