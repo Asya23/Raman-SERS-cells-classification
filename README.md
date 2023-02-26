@@ -1,13 +1,9 @@
 # Cells classification to cancer and healthy ones by their SERS spectra
 
 ## Contents
-1. [Project topic description](Project-description)
+1. [Project topic description](Project-topic-description)
 2. [Data description](#Data-description)
 3. [Project implementation](#Project-implementation)
-4. [Установка проекта](#Установка-проекта)
-5. [Использование проекта](#Использование-проекта)
-6. [Авторы](#Авторы)
-7. [Выводы](Использование-проекта)
 
 ## Project topic description
 
