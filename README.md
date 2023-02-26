@@ -39,3 +39,15 @@ Exactly the chapters you'll find in the Jupyter Notebook.
   * Working with peaks (features) of interest
   * Dividing to train_val and test subsets
   * Correlation matrix
+  * Dimensionality reduction: PCA
+* Machine Learning Modeling
+  * a) Use all 3 spectra types (all 3 types of AuNPs)
+    * Logistic Regression
+    * Cross Validation
+    * Feature importances
+  * b) Use only COOH spectra
+    * Divide to Train, Validation, (Train+Validation) and Test populations
+    * PCA
+    * Logistic Regression
+    * Cross Validation
+    * Feature importances
