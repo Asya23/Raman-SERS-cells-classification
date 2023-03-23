@@ -26,7 +26,9 @@ Each spectra contains 2090 dimensions (features), corresponding to Raman shifts 
 ![image](https://user-images.githubusercontent.com/47527688/221404049-d7196010-8685-417f-8b65-81cf5de4f34e.png)
 
 ## Project implementation
-Exactly the chapters you'll find in the Jupyter Notebook simple_models_sequenced.ipynb
+Exactly the chapters you'll find in the Jupyter Notebook simple_models_sequenced.ipynb .
+Some plots there are implemented in plotly libraries. To watch th file with them, please use this link to nbviewer: https://nbviewer.org/github/Asya23/Raman-SERS-cells-classification/blob/master/simple_models_sequenced.ipynb
+
 * Meet the data
 * EDA
   * Statistical testing: normality
