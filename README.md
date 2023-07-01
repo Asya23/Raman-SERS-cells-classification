@@ -1,4 +1,4 @@
-# Cells classification to cancer and healthy ones by their SERS spectra
+# Classification of Biological Cells to Cancer and Non-Cancer Ones by Their Surface-Enhanced Raman Scattering
 
 ## Contents
 1. [Project topic description](Project-topic-description)
@@ -29,7 +29,7 @@ Each spectra contains 2090 dimensions (features), corresponding to Raman shifts 
 Exactly the chapters you'll find in the Jupyter Notebook [simple_models_sequenced.ipynb](https://github.com/Asya23/Raman-SERS-cells-classification/blob/master/simple_models_sequenced.ipynb) .
 Imortant note: some plots there are implemented in plotly libraries. To watch the file with plotly graphs displayed, please use [this link to nbviewer](https://nbviewer.org/github/Asya23/Raman-SERS-cells-classification/blob/master/simple_models_sequenced.ipynb).
 
-The project presentation is [here](https://github.com/Asya23/Raman-SERS-cells-classification/blob/master/Raman%20analysis_EN.pdf)
+The project presentation is [here](https://github.com/Asya23/Raman-SERS-cells-classification/blob/master/Raman%20analysis_EN.pdf).
 
 * Meet the data
 * EDA
