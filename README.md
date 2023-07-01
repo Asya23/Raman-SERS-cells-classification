@@ -2,8 +2,8 @@
 
 ## Contents
 1. [Project topic description](Project-topic-description)
-2. [Data description](#Data-description)
-3. [Project implementation](#Project-implementation)
+2. [Data description](Data-description)
+3. [Project implementation](Project-implementation)
 
 ## Project topic description
 
@@ -26,8 +26,10 @@ Each spectra contains 2090 dimensions (features), corresponding to Raman shifts 
 ![image](https://user-images.githubusercontent.com/47527688/221404049-d7196010-8685-417f-8b65-81cf5de4f34e.png)
 
 ## Project implementation
-Exactly the chapters you'll find in the Jupyter Notebook simple_models_sequenced.ipynb .
-Some plots there are implemented in plotly libraries. To watch th file with them, please use this link to nbviewer: https://nbviewer.org/github/Asya23/Raman-SERS-cells-classification/blob/master/simple_models_sequenced.ipynb
+Exactly the chapters you'll find in the Jupyter Notebook [simple_models_sequenced.ipynb](https://github.com/Asya23/Raman-SERS-cells-classification/blob/master/simple_models_sequenced.ipynb) .
+Imortant note: some plots there are implemented in plotly libraries. To watch the file with plotly graphs displayed, please use [this link to nbviewer](https://nbviewer.org/github/Asya23/Raman-SERS-cells-classification/blob/master/simple_models_sequenced.ipynb).
+
+The project presentation is [here](https://github.com/Asya23/Raman-SERS-cells-classification/blob/master/Raman%20analysis_EN.pdf)
 
 * Meet the data
 * EDA
@@ -50,5 +52,3 @@ Some plots there are implemented in plotly libraries. To watch th file with them
     * Cross Validation
     * Feature importances
 * Conclusions
-
-The presentation about the project is available [here](https://github.com/Asya23/Raman-SERS-cells-classification/blob/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B0%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D1%85%20%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B2_RU.pdf) (in Russian)
